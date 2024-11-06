@@ -1,0 +1,55 @@
+Font family--------
+.lato-thin {
+  font-family: "Lato", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family: "Lato", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+ <!--slide one start-->
+                    <div class="slider">
+                       <h1 class="mb-0">We Have Talented Team</h1>
+                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. hello Lorem Ipsum has been the industry's stanard dummy text ever since the  hello  bossLorem Ipsum is simply dummy text of the printing</p>
+                       <a href="#">Learn More<span><i class="fa-solid fa-arrow-right"></i></span></a>
+                    </div>
+                    <!--slide one end-->
+
+
+
+
+
+
+
+
+
+           <div class="row">
+                   <div class="col-lg-3">
+                             <img src="image/sl-img.jpg" alt="">
+                         </div>
+                         <div class="col-lg">
+                             <div class="sl_text">
+                                 <h5>Al-Rayhan</h5>
+                                 <p>Co-Founder & COO</p>
+                                 <h6>DeviserWeb</h6>
+                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only fiveLcenturies, but also the leap into electronic typesetting, remaining essentially  like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                             </div>
+                         </div>
+                 </div>

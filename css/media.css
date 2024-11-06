@@ -1,0 +1,508 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.logo{
+		font-size: 20px;
+	}
+	.btn_dd {
+    padding: 4px 4px;
+    width: 280px;
+}
+	.btn_dd[data-bs-popper] {
+    top: 43px;
+    left: -3px;
+}
+     /*banner*/
+     .slider{
+     	margin: 100px 0 130px;
+     }
+    .slider h1{
+    	font-size: 28px;
+    }
+    .slider p{
+    	margin-top: 25px;
+    	padding-right: 0;
+    }
+    .slider a{
+    	padding: 8px 10px;
+    }
+    /*service*/
+     .c_pb{
+    	padding-bottom: 60px;
+    }
+    .c_service{
+    	margin-top: 50px;
+    }
+    /*about us*/
+    .a_text{
+    	text-align: center;
+    }
+    .about-us{
+    	padding-bottom: 60px;
+    }
+    .a_text h1{
+    	padding-top: 50px;
+    }
+    .a_text p{
+    	padding-top: 35px;
+    	padding-bottom: 65px;
+    	padding-right: 0;
+    }
+    /*portfolio start*/
+    .portfolio{
+    	padding-bottom: 50px;
+    }
+    .p_text{
+    	padding-top: 40px;
+    }
+    /*info start*/
+    .i_item{
+    	text-align: center;
+    }
+    .i_info{
+    	margin-bottom: 20px;
+    }
+    /*price start*/
+    .price{
+    	padding-top: 70px;
+    }
+    .s_price{
+    	padding: 60px 0;
+    }
+    .pr_item{
+    	margin-top: 25px;
+    }
+    .pr_p {
+    margin-left: 54px;
+    margin-top: -32px;
+    }
+    .pr_last {
+    margin: 10px 0 40px;
+    }
+    .pr_link{
+    	padding: 7px 35px;
+    }
+    /*footer1 start*/
+    .f_link{
+    	padding: 7px 18px;
+    }
+    
+     /*slider2 start*/
+   .slider2{
+   	margin: 70px;
+   }
+   .sl_h5{
+   	padding-top: 15px;
+   }
+   .sl_text{
+   	text-align: center;
+   }
+   .sl_lastp{
+   	margin-top: 20px;
+   	margin-right: 0;
+   }
+   .sl_btn{
+   	margin-top: 0;
+   	writing-mode: horizontal-tb;
+   }
+   .b_2{
+   	padding-top: 0;
+   }
+   .b_border{
+   	border: none;
+   }
+   /*form start*/
+   .form{
+   	margin-bottom: 70px;
+   }
+   .f_h1 {
+    width: 46%;
+    margin: -11px auto;
+    font-size: 17px;
+    }
+    .f_name{
+    	width: 48%;
+    }
+   .fo_p {
+    padding: 0 0;
+    margin: 39px 0;
+   }
+
+   .fm_icon {
+    padding-bottom: 30px;
+   }
+   .fm_icon ul li a {
+    margin-left: 14px;
+    font-size: 14px;
+   }
+   .btm_p{
+   	font-size: 13px;
+   	text-align: center;
+   }
+   .btm_icon{
+   	
+   padding-right: 0px;
+   font-size: 14px;
+   }
+
+		
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+		/*header start*/
+	header{
+		padding: 10px 0;
+	}
+	.logo{
+		font-size: 25px;
+	}	
+	.btn_dd {
+    padding: 5px 3px;
+    width: 350px;
+}   
+    .nav-tabs{
+    	padding: 0 64px;
+    }
+	.btn_dd[data-bs-popper] {
+    top: 45px;
+    left: -4px;
+}
+    /*banner*/
+    .slider h1{
+    	font-size: 40px;
+    }
+    .slider p{
+    	margin-top: 25px;
+    	padding-right: 250px;
+    }
+    /*service*/
+     .c_pb{
+    	padding-bottom: 60px;
+    }
+    .c_service{
+    	margin-top: 50px;
+    }
+    /*about us*/
+    .a_text{
+    	text-align: center;
+    }
+    .about-us{
+    	padding-bottom: 60px;
+    }
+    .a_text h1{
+    	padding-top: 50px;
+    }
+    .a_text p{
+    	padding-top: 35px;
+    	padding-bottom: 65px;
+    	padding-right: 0;
+    }
+    /*portfolio start*/
+    .portfolio{
+    	padding-bottom: 50px;
+    }
+    .p_text{
+    	padding-top: 40px;
+    }
+    /*info start*/
+    .i_item{
+    	text-align: center;
+    }
+    .i_info{
+    	margin-bottom: 20px;
+    }
+    /*price start*/
+    .price{
+    	padding-top: 70px;
+    }
+    .s_price{
+    	padding: 60px 0;
+    }
+    .pr_item{
+    	margin-top: 25px;
+    }
+    .pr_p {
+    margin-left: 54px;
+    margin-top: -32px;
+    }
+    .pr_last {
+    margin: 10px 0 40px;
+    }
+    .pr_link{
+    	padding: 7px 35px;
+    }
+    /*footer1 start*/
+    .f_link{
+    	padding: 7px 18px;
+    }
+    
+     /*slider2 start*/
+   .slider2{
+   	margin: 70px;
+   }
+   .sl_h5{
+   	padding-top: 15px;
+   }
+   .sl_text{
+   	text-align: center;
+   }
+   .sl_lastp{
+   	margin-top: 20px;
+   	margin-right: 0;
+   }
+   .sl_btn{
+   	margin-top: 0;
+   	writing-mode: horizontal-tb;
+   }
+   .b_2{
+   	padding-top: 0;
+   }
+   .b_border{
+   	border: none;
+   }
+   /*form start*/
+   .form{
+   	margin-bottom: 70px;
+   }
+   .fo_p {
+    padding: 0 82px;
+    margin: 39px 0;
+   }
+   .fm_icon {
+    padding-bottom: 50px;
+   }
+   .fm_icon ul li a {
+    margin-left: 14px;
+    font-size: 14px;
+   }
+   .btm_p{
+   	
+   	text-align: center;
+   }
+   .btm_icon{
+   	
+   padding-right: 98px;
+   }
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.btn_dd {
+    padding: 5px 3px;
+    width: 350px;
+}
+	.btn_dd[data-bs-popper] {
+    top: 45px;
+    left: -4px;
+}
+   /*banner start*/
+   .banner{
+   	padding-bottom: 60px;
+   }
+   .slider h1{
+   	font-size: 45px;
+   } 
+   .slider p{
+   	margin-top: 25px;
+   	padding-right: 250px;
+   }
+   .slider a{
+   	padding: 8px 10px;
+   }
+   /*service start*/
+   .c_pb{
+   	padding-bottom: 50px;
+   }
+   .c_service{
+   	margin-top: 75px;
+   }
+   .c_icon i{
+   	width: 62px;
+   	font-size: 49px;
+   }
+   /*about us start*/
+   .about-us{
+   	padding-bottom: 70px;
+   }
+   .a_text h1{
+   	padding-top: 50px;
+   }
+   .a_text p{
+   	padding-right: 0;
+   	padding-bottom: 60px;
+   }
+   .a_link{
+   	padding: 8px 12px;
+   }
+   /*portfolio start*/
+   .portfolio{
+   	padding-bottom: 60px;
+   }
+   .p_text{
+   	padding-top: 50px;
+   }
+   /*info start*/
+   .i_item{
+   	text-align: center;
+   }
+   .i_info{
+   	margin-bottom:40px ;
+
+   }
+   /*price*/
+   .price{
+   	padding-top: 70px;
+   }
+   .s_price {
+    padding: 70px 0 35px;
+   }
+   .pr_item{
+   	margin-bottom: 30px;
+   }
+   .pr_p{
+   	margin-left: 54px;
+    margin-top: -32px;
+   }
+   /*footer1 start*/
+   .f_link{
+   	padding: 4px 17px;
+   }
+   /*slider2 start*/
+   .slider2{
+   	margin: 70px;
+   }
+   .sl_h5{
+   	padding-top: 15px;
+   }
+   .sl_text{
+   	text-align: center;
+   }
+   .sl_lastp{
+   	margin-top: 20px;
+   	margin-right: 0;
+   }
+   .sl_btn{
+   	margin-top: 0;
+   	writing-mode: horizontal-tb;
+   }
+   .b_2{
+   	padding-top: 0;
+   }
+   .b_border{
+   	border: none;
+   }
+   /*form start*/
+   .form{
+   	margin-bottom: 70px;
+   	padding: 0 0 0;
+   }
+   .f_h1{
+   	font-size: 26px;
+   	width: 187px;
+   }
+   .f_name{
+   	width: 48%;
+   }
+   /*footer start*/
+   .fo_p{
+   	padding: 0 74px;
+   }
+   .fm_icon ul li a{
+   	margin-left: 5px;
+   	font-size: 18px;
+   	padding: 7px 7px;
+   }
+   .btm_p{
+   		font-size: 14px;
+   	}
+   	.btm_icon ul li a{
+   		font-size: 14px;
+   	}
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*banner start*/
+	.slider h1{
+    font-size: 51px;}
+    .slider_p{
+    	padding-right: 90px;}
+	/*about us start*/
+	.a_text p {
+    padding-right: 0;
+    padding-top: 20px;
+    padding-bottom: 65px;
+}
+    /*portfolio end*/
+    .c_title h1 {
+    font-size: 28px;
+    }
+    /*person start*/
+    .pr_text h3{
+    	font-size: 16px;
+    	font-weight: 400;
+    	padding: 20px 18px 5px;
+    }
+    .pr_text p{
+    	padding: 0 17px 20px;
+    }
+    /*price start*/
+    .pr_link{
+    	padding: 7px 18px;
+    }
+    /*footer1*/
+    .f_link{
+    	padding: 7px 18px;
+    }
+    /*slider2*/
+    .s_border{
+    	    padding: 30px 28px 20px;
+    }
+    .sl_p{
+    	margin-top: -5px;
+    }
+    .sl_h6{
+    	margin-top: -16px;
+    }
+    .sl_lastp{
+    	margin: 0 0;
+    }
+    .sl_btn{
+    	margin-top: 0;
+    }
+    .b_1{
+    	margin-top: 27px;
+    }
+    .b_2{
+    	margin-top: 0;
+    	padding-top: 127px;
+    }
+    /*form start*/
+    .f_h1{
+    	width: 50%;
+    }
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+	/*slider start*/
+	.slider h1 {
+    font-size: 50px;
+    }
+    .slider_p{
+    	margin-bottom: 60px;
+    	padding-right: 125px;
+    }
+
+
+	/*about us start*/
+
+}
